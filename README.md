@@ -23,7 +23,16 @@ Run Script `eval_agent.py`
 ## Demo:
 
 We also provided a demo video of the pretrained agent with 300,000 training timesteps
-[![Video](https://drive.google.com/uc?export=view&id=1jZ-LzPcKWZeTN_5pZXyjNkA7Rhh6Yw0w)](https://drive.google.com/file/d/1jZ-LzPcKWZeTN_5pZXyjNkA7Rhh6Yw0w/view?usp=sharing)
+<!DOCTYPE html>
+<html>
+<body>
+  
+  <iframe src="https://drive.google.com/file/d/1jZ-LzPcKWZeTN_5pZXyjNkA7Rhh6Yw0w/view?usp=sharing" ></iframe>
+
+<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
+
+</body>
+</html>
 
 ---
 ## About Agent:
