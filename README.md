@@ -6,7 +6,7 @@ Download [Carla version 0.9.14](https://github.com/carla-simulator/carla/release
 
 Install the necessary packages by running the following command: `pip install -r requirements.txt`
 
-### Step 2:Train an Agent
+### Step 2: Train an Agent
 
 Run Script `train_agent.py`
 - **Train New Agent**: Use `train_new_model("agent_name", total_timesteps=200000, hyperparams=hyperparams2)` to train a new agent. You can specify the name of the agent, the total number of timesteps for training, and the hyperparameters.
