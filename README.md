@@ -17,18 +17,18 @@ Run Script `train_agent.py`
 Run Script `eval_agent.py`
 - **Evaluate Agent**: Use `eval_model(model_path)` to evaluate an agent. Specify the path to the model you wish to evaluate.
 
-**Note**:  A pretrained model was provided. If you want to evaluate this pretrained agent, please download the model from [this link](https://drive.google.com/drive/folders/1ozd8M5q2DDxoHQIQc6tabHcS8o9_ZQuH) and placed the model zip file under path `training/Saved_Models`. In this case, you can directly execute `eval_agent.py` as the default path in the script is the path of this model.
+**Note**:  A pre-trained model was provided. If you want to evaluate this pre-trained agent, please download the model from [this link](https://drive.google.com/drive/folders/1ozd8M5q2DDxoHQIQc6tabHcS8o9_ZQuH) and place the model zip file under path `training/Saved_Models`. In this case, you can directly execute `eval_agent.py` as the default path in the script is the path of this model.
 
 ---
 ## Demo:
 
-We also provided a demo video of the pretrained agent with 300,000 training timesteps
-https://drive.google.com/file/d/1jZ-LzPcKWZeTN_5pZXyjNkA7Rhh6Yw0w/preview
+We also provided a demo video of the pre-trained agent with 300,000 training timesteps
+[https://drive.google.com/file/d/1jZ-LzPcKWZeTN_5pZXyjNkA7Rhh6Yw0w/preview](https://drive.google.com/file/d/1ijbiKa8CEiVy7xC2KwXqHiyEQwAfEcNM/preview)
 
 ---
 ## About Agent:
 
-Implementation details of our gym environment is in `carla_env/carla_env_multi_obs`
+Implementation details of our gym environment are in `carla_env/carla_env_multi_obs`
 
 ### Observation Spaces: 
 [semantic segmentation camera sensor data], [relative position, relative velocity, relative speed]
