@@ -48,9 +48,3 @@ Implementation details of our gym environment are in `carla_env/carla_env_multi_
 | Throttle | Continuous  | [-1, 1]  |
 | Steer    | Continuous  | [-1, 1]  |
 | Brake    | Continuous  | [0, 1]   |
-
----
-## Current Plans:
-| Plan                        | Description                            | Status |
-|-----------------------------|----------------------------------------|--------|
-| Learning to be Malicious | Train the agent to imitate human-driven malicious attacks for automated benchmark testing | ⏳     |
